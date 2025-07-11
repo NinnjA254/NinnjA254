@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NinnjA254
-- 👀 I’m interested in full stack web and app development, graphics programming
-- 🌱 I’m currently learning how computers work under the hood, Frontend development with React
+- 🌱 I’m currently building my blog, so I can yap about nerdy things.
 
 <!---
 NinnjA254/NinnjA254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
